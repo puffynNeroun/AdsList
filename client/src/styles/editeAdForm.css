@@ -1,0 +1,16 @@
+.editeAdForm {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.editeAdForm--dark {
+    background: url("../../public/images/black-acrylic-texture-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.editeAdForm--white {
+    background: url("../../public/images/ftuy4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

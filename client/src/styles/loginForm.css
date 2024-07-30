@@ -1,0 +1,60 @@
+.login {
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login--dark {
+    background: url("../../public/images/black-acrylic-texture-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login--white {
+    background: url("../../public/images/ftuy4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login__container {
+    justify-content: center;
+    border: 3px solid rgb(31, 168, 173);
+   width: 400px;
+    padding: 30px;
+    border-radius: 20px;
+    background: white;
+}
+
+.login__title {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.login__form {
+    border-bottom: 1px solid #c5c5c5;
+}
+.login__btn {
+    display: flex;
+
+}
+.login__btn button {
+    width: 100%;
+}
+
+.login__buttons {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.login__buttons a {
+    color: rgb(31, 168, 173);
+}
+
+
+
+

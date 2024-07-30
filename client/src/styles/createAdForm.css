@@ -1,0 +1,19 @@
+.createAdForm {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.createAdForm--dark {
+    background: url("../../public/images/black-acrylic-texture-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.createAdForm--white {
+    background: url("../../public/images/ftuy4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.createAdForm__container {
+
+}

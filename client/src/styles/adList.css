@@ -1,0 +1,77 @@
+.adListPage {
+
+}
+
+.adList {
+    padding-top: 100px;
+    min-height: 100vh;
+}
+
+.adList--dark {
+
+    background: url("../../public/images/NEUMORPHIC_CIRCLES_BACKGROUND.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.adList--white {
+    background: url("../../public/images/ftuy4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.adList__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.adList__title {
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.adList__title--dark {
+    color: white;
+}
+
+.adList__search {
+    padding-bottom: 20px;
+
+}
+
+
+.adList__list {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    padding-left: 0;
+}
+
+
+.adList__item {
+    max-width: 400px;
+}
+
+.adItem__buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.adList__add {
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: end;
+    width: 83%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

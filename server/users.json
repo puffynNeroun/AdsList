@@ -1,0 +1,20 @@
+{
+  "test": {
+    "password": "$2b$10$fAPueDQK/wuNMuN5aq8whuqRGvNySdEXLGW095WjLap4eAxgHSK/."
+  },
+  "hello": {
+    "password": "$2b$10$hI1eQOHk2zxKKr5jS5uA1egdaGY4rodhlxBwUFryapkzoiLo8N.CG"
+  },
+  "alex": {
+    "password": "$2b$10$H1Cs4zirXZyhAG7ONLMZvudVv2thlqlkrV7GsPPhs0XEiSIr5k7mm"
+  },
+  "bbb": {
+    "password": "$2b$10$D8w1RuThHZ//yBarHfs1x.YtEwLFNq7wOErFwhxwnax8/8ioRL0/i"
+  },
+  "popa": {
+    "password": "$2b$10$vzF3u.u6lkfYqIfY.GLLdOlO6ubY6zk0spUCSLEL0i9Pa3ba0xCqq"
+  },
+  "ccc": {
+    "password": "$2b$10$R0yk8HsgyDNb7BeS59FBOO6IHTQXFNbKXV3PreHEGO32RMJCx.nla"
+  }
+}

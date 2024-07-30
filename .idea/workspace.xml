@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b895700-179e-4049-8ac6-45e23df488b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/PrivateRoute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/WelcomeSection.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/styles/createAdForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/styles/editeAdForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/styles/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/styles/welcome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AdDesk.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AdItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AdItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AdList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AdList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CreateAdForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CreateAdForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/EditeAdForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/EditeAdForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/LoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/LoginForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/RegisterForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/RegisterForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/redux/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/redux/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/redux/reducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/redux/reducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/styles/adList.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles/adList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/ads.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/ads.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/.bin/mime" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/.bin/mime" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/cookie/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/cookie/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/cookie/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/cookie/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/cookie/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/cookie/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/cookie/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/cookie/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/cookie/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/cookie/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/express.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/express.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/middleware/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/middleware/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/middleware/query.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/middleware/query.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/response.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/response.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/router/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/router/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/lib/view.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/lib/read.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/lib/types/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/lib/types/raw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/lib/types/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/body-parser/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/raw-body/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/express/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/mime.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/mime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/src/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/src/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/mime/src/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/mime/src/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/users.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;puffynNeroun&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/valeriiash266/Project.git&quot;,
+    &quot;accountId&quot;: &quot;ce9845cc-822d-4567-aa70-c2a3a90ec347&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ilhA6ZcJEMvf8phoEHPBZonR87" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b895700-179e-4049-8ac6-45e23df488b2" name="Changes" comment="" />
+      <created>1720070924924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720070924924</updated>
+      <workItem from="1720070926033" duration="1644000" />
+      <workItem from="1721119162525" duration="293000" />
+      <workItem from="1721834288270" duration="382000" />
+      <workItem from="1721835233034" duration="3893000" />
+      <workItem from="1722111713439" duration="4920000" />
+      <workItem from="1722238535531" duration="150000" />
+      <workItem from="1722238729112" duration="2876000" />
+      <workItem from="1722343326830" duration="860000" />
+      <workItem from="1722346641950" duration="977000" />
+      <workItem from="1722352579086" duration="2080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

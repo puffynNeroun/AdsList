@@ -1,0 +1,56 @@
+.home {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.home--white {
+    background: url('../../public/images/NEUMORPHIC_CIRCLES_BACKGROUND.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home--dark {
+    background: url('../../public/images/lilac-acrylic-texture-background-wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    border: 3px solid rgb(31, 168, 173);
+    max-width: 600px;
+    padding: 30px;
+    border-radius: 20px;
+    background: white;
+}
+
+.home__title {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home__description {
+    padding-bottom: 60px;
+    max-width: 300px;
+    text-align: center;
+    border-bottom: 1px solid #c5c5c5;
+}
+
+.home__buttons {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.home__btn {
+}
